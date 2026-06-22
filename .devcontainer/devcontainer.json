@@ -2,9 +2,9 @@
   "name": "ARM64 Dev",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "hostRequirements": {
-    "cpus": 2,
-    "memory": "4gb",
-    "storage": "16gb"
+    "cpus": 4,
+    "memory": "16gb",
+    "storage": "32gb"
   },
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
